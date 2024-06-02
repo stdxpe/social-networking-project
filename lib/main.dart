@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:social_networking_project/ui/screens/home_screen.dart';
+
 void main() {
   runApp(const SocialNetworkingApp());
 }
